@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Rangga Botz.
+   * Contact Me on wa.me/6285779150501
+   * Follow https://github.com/RanggaBotzz
 */
 
 const fs = require('fs')
@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283806211924','6285722156367']
-global.premium = ['6283806211924']
+global.owner = ['6285779150501','6285779150501']
+global.premium = ['6285779150501']
 global.packname = 'Hisoka Morrow'
 global.author = 'PickFord'
 global.sessionName = 'session'
